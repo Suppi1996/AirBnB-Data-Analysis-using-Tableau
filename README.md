@@ -17,6 +17,7 @@ To unlock richer insights, we’ll combine the ‘Listing’ and ‘Calendar’ 
 
 Navigate to the ‘Data’ section and Open the Listing and add Calendar based on Inner join.
 Link the tables using the Listing ID to unify data points.
+
 ![image](https://github.com/user-attachments/assets/76f25718-406c-4b88-8feb-545fe6bd55f4)
 
 ### Step 3: Creating Visualizations That Tell a Story 🎨
@@ -29,7 +30,7 @@ This visualization is like a bar chart of potential income: higher-priced zones 
 ![image](https://github.com/user-attachments/assets/e4ce6986-a747-4621-98c8-70c5bc37b354)
 
 
-### Chapter 2: Riding the Seasonal Wave 📅
+#### Chapter 2: Riding the Seasonal Wave 📅
 
 Every Airbnb host knows that demand fluctuates with the seasons. The *Revenue Trends by Year (Line Chart)* paints this picture clearly, showing how revenue changes over time. 
 You can pinpoint the months when guests spend the most, and plan your business strategies around these peaks. 
@@ -38,7 +39,7 @@ This insight is essential for adjusting nightly rates, running seasonal promotio
 ![image](https://github.com/user-attachments/assets/5bbfec7e-6d56-474a-8ede-1cdb54e4dd2a)
 
 
-### Chapter 3: Fine-Tuning the Room Mix 🛏️
+#### Chapter 3: Fine-Tuning the Room Mix 🛏️
 
 In the *Average Price by Bedroom Count* chart, we dive into how the number of bedrooms affects pricing. If your property offers more rooms, this visualization confirms that you can set higher rates based on room count. The insights here help you understand the trade-off between space and price, allowing you to position your property competitively based on the bedroom count.
 ![image](https://github.com/user-attachments/assets/2480710b-b8a5-4958-b249-eaf7de9f019d)
@@ -51,7 +52,7 @@ The Number of * Reviews per Zip Code*  heat map reveals the activity level in di
 ![image](https://github.com/user-attachments/assets/4368c9dd-41b7-4297-a9a7-b6db77248ff0)
 
 
-### Chapter 4: Building Your Business Dashboard 📈
+#### Chapter 4: Building Your Business Dashboard 📈
 
 Finally, we bring these insights together into a central *Business Strategy Dashboard*. Here, every visualization contributes to an overarching view of your Airbnb market dynamics. This dashboard doesn’t just show raw numbers; it’s designed to help you make decisions with clarity. Use it to track performance, identify opportunities, and test out strategies with confidence.
 
